@@ -1,0 +1,22 @@
+.user-pfp {
+  margin-top: 40px;
+  margin-left: 60px;
+  border-radius: 57px;
+  overflow: hidden;
+  filter: drop-shadow(0px 0px 8px rgba(150, 64, 221, 0.4));
+}
+.user-pfp-hello {
+  font-weight: 300;
+}
+
+.divide {
+  margin-top: 40px;
+  margin-bottom: 20px;
+  margin-left: 30px;
+  border-top: 1px solid rgb(186, 186, 186);
+  width: 1300px;
+}
+
+.card {
+  filter: drop-shadow(0px 0px 5px rgba(7, 6, 8, 0.3));
+}
