@@ -1,0 +1,29 @@
+:root {
+  --primary: #9a6aff;
+  --secondary: #ffffff;
+  --bgcolor: #1e2029;
+  --textcolor: #e3e3e3;
+  --primary-light: #d4c3f9;
+}
+
+html,
+body {
+  margin: 0;
+  padding: 0;
+}
+
+.gradient {
+  background: linear-gradient(45deg, var(--primary), var(--primary-light));
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  background-clip: text;
+}
+
+.logo {
+  width: 200px;
+  height: 200px;
+}
+
+/*  */
+/*  */
+/*  */
